@@ -1,0 +1,6 @@
+﻿  ParProg2.6.cpp
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\Sergey\source\repos\ParProg2.2\ParProg2.6\ParProg2.6.cpp(10): error C4700: использована неинициализированная локальная переменная "n"
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: не удалось создать код
