@@ -1,7 +1,10 @@
 ﻿  ParProg5.cpp
+C:\Users\Sergey\Desktop\ParallelProg\Task5\ParProg5\ParProg5.cpp(59,9): warning C4849: Предложение "collapse" OpenMP игнорируется в директиве "parallel for".
+C:\Users\Sergey\Desktop\ParallelProg\Task5\ParProg5\ParProg5.cpp(72,9): warning C4849: Предложение "collapse" OpenMP игнорируется в директиве "parallel for".
+C:\Users\Sergey\Desktop\ParallelProg\Task5\ParProg5\ParProg5.cpp(85,9): warning C4849: Предложение "collapse" OpenMP игнорируется в директиве "parallel for".
   Создание кода
-  7 of 20 functions (35.0%) were compiled, the rest were copied from previous compilation.
+  0 of 13 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Создание кода завершено
-  ParProg5.vcxproj -> C:\Users\Sergey\source\repos\ParProg5\x64\Release\ParProg5.exe
+  ParProg5.vcxproj -> C:\Users\Sergey\Desktop\ParallelProg\Task5\x64\Release\ParProg5.exe
